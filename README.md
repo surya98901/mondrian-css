@@ -1,2 +1,2 @@
 # mondrian-css
-Mondrian paints using css
+Mondrian paintings using css
